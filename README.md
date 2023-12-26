@@ -1,4 +1,10 @@
-### Hi there 👋
+### About Me:
+Hola Comunidad! Soy Eduardo Soto.👋
+⁣⁣<br>
+
+## 🌐 Sociales:
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[Linkedin](http://www.linkedin.com/in/eduardo-soto-046653243 "Linkedin")
 
 <!--
 **edSoto02/edSoto02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
